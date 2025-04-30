@@ -24,7 +24,7 @@ E-ZPass Rhode Island is a modern React-based application that simulates toll man
 
 **Name:** kerolina846bala  
 **Email:** kerolina846bala@outlook.com  
-**Website:** (E-ZPass Rhode Island) (https://www.e-zpassri.com)
+**Website:** [E-ZPass Rhode Island](https://www.e-zpassri.com)
 **Bio:**  
 Kerolina is a full-stack React developer with expertise in scalable front-end systems. With 5+ years of experience in the transportation and finance sectors, she is known for her helpful nature, collaborative mindset, and mastery of modern JavaScript frameworks.
 
